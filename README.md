@@ -1,4 +1,4 @@
-<b>Hi, I'm Kamii.</b> I'm a 15 year old hobbyist developer who does programming in their free time. I'm currently working on [MerlinScript.](https://github.com/Kamiikrazy/MerlinScript)
+<b>Hi, I'm Kamii</b>. I'm kinda lazy, but check out [MerlinScript.](https://github.com/Kamiikrazy/MerlinScript)
 
 [![Kamii's Github Stats](https://github-readme-stats.vercel.app/api?username=kamiikrazy&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) 
 
