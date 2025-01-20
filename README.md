@@ -1,5 +1,10 @@
-<b>Hi, I'm Kamii</b>. I'm kinda lazy, but check out [MerlinScript.](https://github.com/Kamiikrazy/MerlinScript)
-
-[![Kamii's Github Stats](https://github-readme-stats.vercel.app/api?username=kamiikrazy&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) 
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+<div align="center">
+<img src="https://github.com/Kamiikrazy/Kamiikrazy/blob/main/assets/idk.jpg" width=25% align="right">
+<br><br>
+<pre>
+    Programming is a hobby. Nothing more.
+    Kamiikrazy/MerlinScript
+    "如果你被拒绝了，你可以得到一杯免费的咖啡泼在他脸上"
+    Python • C • JavaScript
+</pre>
+</div>
